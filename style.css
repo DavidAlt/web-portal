@@ -73,9 +73,9 @@ span:hover * {
 #banner {
     background: #36C;
     color: white;
-    font-size: 3em;
+    font-size: 2.5em;
     font-weight: bold;
-    height: 55px;
+    height: 50px;
     width: 800px;
 }
 
@@ -89,7 +89,7 @@ span:hover * {
 #menu li {
     background: white;
     border-bottom: solid 1px black;
-    border-left: solid 1px white;
+    border-left: solid 1px transparent;
     border-right: solid 1px black;
     float: left;
     padding: 0 15px 0 5px;
